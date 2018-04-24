@@ -1,0 +1,16 @@
+{
+  "name": "discordarchiver",
+  "version": "1.0.0",
+  "description": "Archiving images from discord",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^10.0.1",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khoin",
+  "license": "MIT"
+}
